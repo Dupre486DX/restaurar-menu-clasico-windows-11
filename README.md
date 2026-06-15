@@ -35,6 +35,11 @@ exit
 
 ----------------
 
+simplemente haz clic derecho sobre el archivo creado y selecciona Ejecutar como administrador. 
+
+La ventana de cmd hará todo el trabajo en dos segundos, explorer se reiniciara y el menú de tu inicio volverá a la normalidad de forma instantánea.
+
+--------
 
 tambien puedes solo descargar el .bat que ya hice.
 
