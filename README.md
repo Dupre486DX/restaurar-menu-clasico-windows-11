@@ -95,10 +95,9 @@ o baja los archivos que dejo en un .rar
 <img width="1067" height="1155" alt="Captura de pantalla 2026-09-06 114127" src="https://github.com/user-attachments/assets/0ee24341-c98d-44de-afee-a5f1321c8d4b" />
 <img width="861" height="1057" alt="Captura de pantalla 2026-09-06 121903" src="https://github.com/user-attachments/assets/ee9b8342-9fa5-4117-a94e-b577d759c572" />
 <img width="1112" height="610" alt="Captura de pantalla 2026-09-06 122016" src="https://github.com/user-attachments/assets/4f286003-ce37-4fe3-b09c-a0ab3d06a7e8" />
-bat
 
 disfruta, tu menú de inicio restaurado
 
-gracias a [thebookisclosed](https://github.com/thebookisclosed) y su proyecto de vive tool
+gracias a [thebookisclosed](https://github.com/thebookisclosed) y su proyecto de vivetool
 
 **Full Changelog**: https://github.com/Dupre486DX/restaurar-menu-clasico-windows-11/compare/restore-new-menu-start-windows11...start
