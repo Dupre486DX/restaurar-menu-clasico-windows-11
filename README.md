@@ -45,10 +45,15 @@ echo [1/2] Desactivando flags anteriores del nuevo Menu...
 echo.
 
 vivetool.exe /disable /id:47205210
+
 vivetool.exe /disable /id:48433719
+
 vivetool.exe /disable /id:49221331
+
 vivetool.exe /disable /id:49402389
+
 vivetool.exe /disable /id:49820095
+
 vivetool.exe /disable /id:55495322
 
 echo.
@@ -56,10 +61,15 @@ echo [2/2] Desactivando las nuevas flags de tamano y personalizacion...
 echo.
 
 vivetool.exe /disable /id:61225604
+
 vivetool.exe /disable /id:61596616
+
 vivetool.exe /disable /id:61596617
+
 vivetool.exe /disable /id:61596618
+
 vivetool.exe /disable /id:61596619
+
 vivetool /disable /id:61161244,61754985
 
 vivetool /enable /id:61161244,61754985,62353331,62762248
