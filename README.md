@@ -12,9 +12,9 @@ lo guardas la carpeta de vivetools de https://github.com/thebookisclosed
 
 y ejecutas como administrador, reinicias windows, despues vas a panel de control, menu ( start ) y ya tienes las opciones de menu de inicio, pequeño y grande :-)
 
-<img width="1067" height="1155" alt="Captura de pantalla 2026-09-06 114127" src="https://github.com/user-attachments/assets/0ee24341-c98d-44de-afee-a5f1321c8d4b" />
-<img width="861" height="1057" alt="Captura de pantalla 2026-09-06 121903" src="https://github.com/user-attachments/assets/ee9b8342-9fa5-4117-a94e-b577d759c572" />
 <img width="1112" height="610" alt="Captura de pantalla 2026-09-06 122016" src="https://github.com/user-attachments/assets/4f286003-ce37-4fe3-b09c-a0ab3d06a7e8" />
+<img width="1067" height="1155" alt="Captura de pantalla 2026-09-06 114127" src="https://github.com/user-attachments/assets/66a17580-52a3-4b3a-85af-cc9f0561f225" />
+<img width="861" height="1057" alt="Captura de pantalla 2026-09-06 121903" src="https://github.com/user-attachments/assets/189ca91e-14a6-48e5-b8c5-61637ef3f9f2" />
 
 
 disfruta, tu menú de inicio restaurado
